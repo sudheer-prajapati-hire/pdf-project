@@ -4,12 +4,30 @@ This project extracts table data from a PDF and displays it in a web page using 
 
 ## Features
 - Extract table data from a PDF.
-- Display the data in a responsive and interactive table.
-- 
+- Display the data in a responsive and interactive table
+
 ## Technologies Used
-- **Backend**: Node.js, Express, MongoDB
-- **Frontend**: React.js
-- **PDF Extraction**: `pdfreader` library
+
+### **Backend**
+- **Node.js**: A JavaScript runtime for building server-side applications.
+- **Express.js**: A web framework for Node.js to handle API requests.
+- **MongoDB**: A NoSQL database for storing extracted data.
+- **Mongoose**: An ODM (Object Data Modeling) library for MongoDB.
+- **CORS**: Middleware to enable Cross-Origin Resource Sharing.
+- 
+  ### **Frontend**
+- **React.js**: A JavaScript library for building user interfaces.
+- **Axios**: A promise-based HTTP client for making API requests.
+- **CSS**: For styling the application.
+- 
+- ### **PDF Extraction**
+- **pdfreader**: A Node.js library for extracting text and tables from PDFs.
+
+- ### **Development Tools**
+- **Git**: For version control.
+- **GitHub**: For hosting the repository.
+- **Visual Studio Code**: A code editor for development.
+- **npm**: Node Package Manager for managing dependencies.
 
 ## How to Run
 1. Clone the repository:
