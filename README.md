@@ -20,7 +20,7 @@ This project extracts table data from a PDF and displays it in a web page using 
 #########################################################################
 
 # Navigate to the backend folder and install dependencies:
-cd backend
+cd backend & 
 npm install
 
 # Start the backend server:
