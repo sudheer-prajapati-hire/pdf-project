@@ -5,8 +5,7 @@ This project extracts table data from a PDF and displays it in a web page using 
 ## Features
 - Extract table data from a PDF.
 - Display the data in a responsive and interactive table.
-- Search and filter functionality.
-
+- 
 ## Technologies Used
 - **Backend**: Node.js, Express, MongoDB
 - **Frontend**: React.js
