@@ -27,7 +27,7 @@ npm install
 node server.js
 
 # Navigate to the frontend folder and install dependencies:
-cd ../frontend
+cd ../frontend &
 npm install
 
 # Start the frontend:
